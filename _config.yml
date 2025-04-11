@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: Curso de Automatizaciones
+description: Material completo del curso de automatizaciones
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true 
